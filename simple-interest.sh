@@ -1,4 +1,4 @@
-### 2) `LICENSE` (Apache 2.0)  ✅ *(Task 2)*
+### 2) `LICENSE` (Apache 2.0)
 
 > **Exactly** the Apache License, Version 2.0, which contains the required sections (Definitions; Grant of Copyright License; Grant of Patent License; Redistribution; Submission of Contributions; Trademarks; Disclaimer of Warranty; Limitation of Liability; Accepting Warranty or Additional Liability). [2](https://www.apache.org/licenses/LICENSE-2.0.html)[3](https://spdx.org/licenses/Apache-2.0)
 
