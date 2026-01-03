@@ -1,2 +1,12 @@
-# simple-interest-calculator
-Simple Interest Calculator: Quickly calculate interest earned or owed with this straightforward tool. Input principal, rate, and time to get results.
+
+# Simple Interest Calculator (Bash)
+
+A tiny Bash utility that computes **simple interest** given principal (P), annual rate (%) (R), and time in years (T).
+
+## Formula
+Simple Interest = P × R × T / 100
+
+## Usage
+1) Make the script executable:
+```bash
+chmod +x simple-interest.sh
