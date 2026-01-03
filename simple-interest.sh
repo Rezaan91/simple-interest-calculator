@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 # simple-interest.sh — compute simple interest (SI = P * R * T / 100)
 
